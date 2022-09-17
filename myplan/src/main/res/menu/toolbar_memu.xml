@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item-->
+<!--        android:id="@+id/menu_reset_does"-->
+<!--        android:title="UnCheck"-->
+<!--        android:icon="@android:drawable/ic_menu_set_as"-->
+<!--        app:showAsAction="always"-->
+<!--        />-->
+<!--    <item-->
+<!--        android:id="@+id/menu_init"-->
+<!--        android:title="&#8942;"-->
+<!--        app:showAsAction="always"-->
+<!--        />-->
+    <item
+        android:id="@+id/toolbar_memu"
+        app:showAsAction="always"
+        />
+
+</menu>

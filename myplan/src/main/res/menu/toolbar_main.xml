@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/uncheck"
+        app:showAsAction="never"
+        android:title="Uncheck All"
+        />
+
+    <item
+        android:id="@+id/realarm"
+        app:showAsAction="never"
+        android:title="Recycle List"
+        />
+
+    <item
+        android:id="@+id/alldelete"
+        android:title="Delete All"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/explain"
+        android:title="Explain"
+        app:showAsAction="never" />
+
+
+
+</menu>

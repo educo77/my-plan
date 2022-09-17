@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/editTitle"
+        app:showAsAction="never"
+        android:title="Edit Title"
+        />
+
+   <item
+       android:id="@+id/editContent"
+       app:showAsAction="never"
+       android:title="Edit Content"
+       />
+
+    <item
+        android:id="@+id/viewContent"
+        app:showAsAction="never"
+        android:title="View Content"
+        />
+
+    <item
+        android:id="@+id/changeDiarly"
+        app:showAsAction="never"
+        android:title="Change Diarly"
+        />
+
+</menu>
